@@ -1,4 +1,4 @@
-// cat rle.cpp | ./rle-decompress compressed.rle
+// cat rle.cpp | ./rle compressed.rle
 
 #include <iostream>
 #include <fstream>
